@@ -1,0 +1,41 @@
+//Item List
+ { 
+   "ItemID": "001",
+   "ItemName":"Iron Sword" ,
+   "ItemDesc":"A sword he always carried with.",
+   "ItemType": 1,
+   "ItemIcon": "Iron Sword" ,
+   "ItemCount": 1,
+   "ItemOperation": 1
+  },
+ 
+  { 
+   "ItemID": "002",
+   "ItemName":"Iron Shield" ,
+   "ItemDesc":"A shield can defense normal attacks.",
+   "ItemType": 1,
+   "ItemIcon": "Iron Shield" ,
+   "ItemCount": 1,
+   "ItemOperation": 1
+  },
+
+  { 
+   "ItemID": "003",
+   "ItemName":"Purple Mushroom" ,
+   "ItemDesc":"A mushroom picked from the forest, maybe poisonous?",
+   "ItemType": 2,
+   "ItemIcon": "Iron Shield" ,
+   "ItemCount": 1,
+   "ItemOperation": 2
+   },
+
+   { 
+   "ItemID": "004",
+   "ItemName":"Green Fragments" ,
+   "ItemDesc":"Mined from green minerals",
+   "ItemType": 3,
+   "ItemIcon": "Green Fragments",
+   "ItemCount": 1,
+   "ItemOperation": 2
+   },
+]
